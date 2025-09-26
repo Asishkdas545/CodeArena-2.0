@@ -14,7 +14,7 @@ const cors = require('cors')
 // console.log("Hello")
 
 app.use(cors({
-    origin: 'https://codearena-2-0-5.onrender.com/',
+    origin: 'https://codearena-2-0-5.onrender.com',
     credentials: true 
 }))
 
