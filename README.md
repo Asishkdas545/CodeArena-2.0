@@ -31,15 +31,15 @@ A full-stack **LeetCode clone** built with **React**, **Node.js**, **Express**, 
 ## 📸 Screenshot
 
 ![App Screenshot](./screenshot.png)  
-![App Screenshot](https://raw.githubusercontent.com/Asishkdas545/CodeArena-2.0/main/public/Screenshot 2025-10-02 192618.png)
+![App Screenshot](https://raw.githubusercontent.com/Asishkdas545/CodeArena-2.0/main/public/Screenshot1.png)
 
-![App Screenshot](https://raw.githubusercontent.com/Asishkdas545/CodeArena-2.0/main/public/Screenshot 2025-10-02 192657.png)
+![App Screenshot](https://raw.githubusercontent.com/Asishkdas545/CodeArena-2.0/main/public/Screenshot2.png)
 
-![App Screenshot](https://raw.githubusercontent.com/Asishkdas545/CodeArena-2.0/main/public/Screenshot 2025-10-02 192716.png)
+![App Screenshot](https://raw.githubusercontent.com/Asishkdas545/CodeArena-2.0/main/public/Screenshot3.png)
 
-![App Screenshot](https://raw.githubusercontent.com/Asishkdas545/CodeArena-2.0/main/public/Screenshot 2025-10-02 192618.png)
+![App Screenshot](https://raw.githubusercontent.com/Asishkdas545/CodeArena-2.0/main/public/Screenshot4.png)
 
-![App Screenshot](https://raw.githubusercontent.com/Asishkdas545/CodeArena-2.0/main/public/Screenshot 2025-10-02 192825.png)
+![App Screenshot](https://raw.githubusercontent.com/Asishkdas545/CodeArena-2.0/main/public/Screenshot5.png)
 
 
 *Replace `./screenshot.png` with the path to your actual screenshot*
