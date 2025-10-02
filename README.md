@@ -1,6 +1,6 @@
-# LeetCode Clone
+# CodeArena
 
-A full-stack **LeetCode clone** built with **React**, **Node.js**, **Express**, **MongoDB**, **Monaco Editor**, **Judge0**, **JWT authentication**, and **Redis** for session management. Solve coding challenges, submit code in multiple languages, and manage your account securely.
+**CodeArena : A Full-Stack coding Platform** built with **React**, **Node.js**, **Express**, **MongoDB**, **Monaco Editor**, **Judge0**, **JWT authentication**, and **Redis** for session management. Solve coding challenges, submit code in multiple languages, and manage your account securely.
 
 ---
 
